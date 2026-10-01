@@ -1,0 +1,16 @@
+# Temporary OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# C# / ASP.NET Core build output
+bin/
+obj/
+*.user
+
+# Local secrets & environment
+.env
+appsettings.Development.json
